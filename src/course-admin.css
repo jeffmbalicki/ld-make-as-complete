@@ -1,0 +1,8 @@
+.dataTables_wrapper .dataTables_length select{
+  width: 50px !important;
+}
+#markcomplete > tbody tr > td:last-child{
+  width: 50px !important;
+}
+
+/*# sourceMappingURL=course-admin.css.map */
