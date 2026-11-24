@@ -1,13 +1,29 @@
 <?php
 /**
- * Plugin Name: LearnDash Mark as Complete
- * Plugin URI: 
- * Description: Adds a custom metabox for managing course completion by users in LearnDash.
- * Version: 1.0.0
- * Author: Jeff Balicki
- * Author URI: http://jeffbalicki.com
- * License: GPL2
- * Text Domain: learndash-mark-as-complete
+ * Plugin Name:       LearnDash Mark as Complete
+ * Plugin URI:        https://github.com/jeffmbalicki/ld-make-as-complete
+ * Description:       Learndash mark as complete is a Wordpress plugin that allows users to mark lessons as complete for live streams and webinars
+ * Version:           1.1.0
+ * Requires at least: 6.0
+ * Requires PHP:      8.0
+ * Author:            Jeff Balicki
+ * Author URI:        https://jeffbalicki.com
+ * License:           GPL-2.0-or-later
+ * License URI:       https://www.gnu.org/licenses/gpl-2.0.html
+ * Text Domain:       ld-make-as-complete
+ *
+ * Copyright (C) 2026 Jeff Balicki
+ *
+ * This program is free software: you can redistribute it and/or modify
+ * it under the terms of the GNU General Public License as published
+ * by the Free Software Foundation, either version 2 of the License,
+ * or (at your option) any later version.
+ *
+ * This program is distributed in the hope that it will be useful,
+ * but WITHOUT ANY WARRANTY; without even the implied warranty of
+ * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+ * See the GNU General Public License for more details.
+ */
  */
 
 if ( ! defined( 'ABSPATH' ) ) {
